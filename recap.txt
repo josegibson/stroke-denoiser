@@ -1,0 +1,14 @@
+Reason for halt:
+
+    could not implement appropriate loss functions such as dtw or emd custom loss classes
+
+Things to be implemented:
+
+    - a layer that converts displacement-stroke data to be used
+    inside custom loss classes just like normalisation layer
+
+    - dataloader to manage normalisations to regenerate values for comparision and usage 
+
+
+
+
